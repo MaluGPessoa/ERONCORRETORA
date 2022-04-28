@@ -1,12 +1,12 @@
 ### **_ERON CORRETORA_**
 
-##Projeto 
+## Projeto 
 - Projeto estudantil
 - Revisar
 - Praticar
 - Codar
 
-##Lista
+## Lista
 - Estudar HTML
 - Estudar Javascript
 - Estudar CSS
